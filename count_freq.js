@@ -22,3 +22,11 @@ function countFreq(arr){
 }
 const freq=countFreq(arr);
 console.log(freq);
+let str="shruti";
+for(let i in str){
+    console.log(str[i]);
+}
+// todo for in   
+// todo for of 
+
+
